@@ -1,5 +1,5 @@
 # nuxt-gtag-ga4
 
-#Installation
+# Installation
 
 npm i nuxt-gtag-ga4
