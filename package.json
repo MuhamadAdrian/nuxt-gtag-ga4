@@ -1,0 +1,16 @@
+{
+  "name": "gtag-ga4",
+  "version": "1.0.0",
+  "description": "Google Analytics 4 for Nuxt js",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nuxt",
+    "js",
+    "ga4"
+  ],
+  "author": "Adrian",
+  "license": "ISC"
+}
